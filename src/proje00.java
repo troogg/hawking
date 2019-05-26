@@ -149,7 +149,7 @@ timer.start();
     }//GEN-LAST:event_jsairActionPerformed
 
     private void jenviarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jenviarActionPerformed
-         File Ponto = new File ("C:\\Users\\Willian\\Documents\\Ponto\\fun.txt"); //OBS: o \ tem quer ser igual em todos os campos !
+         File Ponto = new File ("C:\\Ponto\\fun.txt"); //OBS: o \ tem quer ser igual em todos os campos !
 
   try{
   FileWriter fw = new FileWriter(Ponto, true);
