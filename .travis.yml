@@ -1,0 +1,9 @@
+language: java
+java:
+- "7.0"
+before_script:
+- cd src
+script:
+- java projeto00.java
+- java proje00.java
+- java cadastro.java
