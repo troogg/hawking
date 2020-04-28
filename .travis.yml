@@ -1,9 +1,0 @@
-language: java
-java:
-- "8.0"
-before_script:
-- cd src
-script:
-- java cadastro.java
-- java proje00.java
-- java projeto00.java
